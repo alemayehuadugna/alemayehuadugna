@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m a Full Stack Developer<br>Passionate about building scalable applications and diving deep into the world of AI.<br><br>🌱 I’m currently learning<br>AI Automation — exploring how to streamline repetitive tasks using intelligent agents.<br><br>💬 Ask me about<br>Flutter, Firebase, Node.js, Express, and MongoDB.<br><br>⚡ Fun fact<br>I debug for fun—because who needs hobbies when you have bugs? 🐞💡
+👋 Hi, I’m a Full Stack Developer<br>Passionate about building scalable applications and diving deep into the world of AI.<br><br>🌱 I’m currently learning<br>AI Automation — exploring how to streamline repetitive tasks using intelligent agents.<br><br>💬 Ask me about<br>Flutter, FastAPI, Next.js, Devops, RAG System Firebase, Node.js, PostgreSQL and MongoDB.<br><br>⚡ Fun fact<br>I debug for fun—because who needs hobbies when you have bugs? 🐞💡
 
 
 ## 🌐 Socials:
